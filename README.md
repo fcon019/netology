@@ -2,6 +2,9 @@
 
 
 ### Задание 1
+sudo apt update
+sudo apt upgrade
+sudo apt install postgresql
 wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
 sudo dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
 sudo apt update
