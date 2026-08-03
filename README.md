@@ -1,14 +1,11 @@
 # Домашнее задание к занятию "`Zabbix Часть 1`" - `Соколов М.И.`
 
 
-### Задание 1
-sudo apt update
-
-sudo apt upgrade
-
-sudo apt install postgresql
-
-wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
+## Задание 1
+1. sudo apt update
+2. sudo apt upgrade
+3. sudo apt install postgresql
+4. wget https://repo.zabbix.com/zabbix/7.0/ubuntu/pool/main/z/zabbix-release/zabbix-release_latest_7.0+ubuntu24.04_all.deb
 
 sudo dpkg -i zabbix-release_latest_7.0+ubuntu24.04_all.deb
 
