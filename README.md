@@ -18,6 +18,7 @@ DBPassword=password
 sudo systemctl restart zabbix-server zabbix-agent apache2
 sudo systemctl enable zabbix-server zabbix-agent apache2
 
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/Login%20admin.jpg)
 
 ### Задание 2
 
