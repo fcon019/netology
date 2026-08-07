@@ -2,7 +2,7 @@
 
 
 ## Задание 1
-
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/Templates.jpg)
 
 
 
