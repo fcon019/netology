@@ -45,9 +45,8 @@ sudo systemctl restart zabbix-agent
 
 sudo systemctl enable zabbix-agent
 
-
-![alt text](https://github.com/fcon019/zabbix/blob/main/img/Zabbix%20agent%20logs.jpg)
-![alt text](https://github.com/fcon019/zabbix/blob/main/img/Latest%20data1.jpg)
-![alt text](https://github.com/fcon019/zabbix/blob/main/img/Latest%20data2.jpg)
+## Задание 3
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/SokolovMI1)
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/SokolovMI2)
 
 
