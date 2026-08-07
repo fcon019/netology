@@ -16,3 +16,8 @@
 
 ## Задание 5
 ![alt text](https://github.com/fcon019/zabbix/blob/main/img/Maps.jpg)
+
+## Задание 9
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/Obnarugenie.jpg)
+Обнаружение работает, но узел не добавляется.
+
