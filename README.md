@@ -13,3 +13,6 @@
 
 ## Задание 4
 ![alt text](https://github.com/fcon019/zabbix/blob/main/img/Dashboard.jpg)
+
+## Задание 5
+![alt text](https://github.com/fcon019/zabbix/blob/main/img/Maps.jpg)
