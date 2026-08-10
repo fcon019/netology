@@ -5,3 +5,6 @@
 ## Задание 2
 ![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_2.jpg)
 ## Задание 3
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_3.jpg)
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_4.jpg)
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_5.jpg)
