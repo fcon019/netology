@@ -13,5 +13,9 @@
 ## Задание 1.5
 ![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_7.jpg)
 ## Задание 2.1
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_2.1.jpg)
 ## Задание 2.2
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_2.2.1.jpg)
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_2.2.2.jpg)
 ## Задание 2.3
+![alt text](https://github.com/fcon019/netology/blob/main/img/Prometheus_2.3.jpg)
