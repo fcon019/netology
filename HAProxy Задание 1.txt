@@ -54,5 +54,8 @@ backend web_servers    # секция бэкенд
         server s1 127.0.0.1:8888 check
         server s2 127.0.0.1:9999 check
 
+![alt text](https://github.com/fcon019/netology/blob/main/img/HSRP.jpg)
+
+
 
 
