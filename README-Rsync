@@ -1,1 +1,0 @@
- rsync -av --delete --exclude '.*' --checksum ~/ /tmp/backup
