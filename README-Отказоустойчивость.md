@@ -72,5 +72,5 @@ resource "yandex_lb_network_load_balancer" "balancer1" {
 }
 
 
-![alt text](https://github.com/fcon019/netology/blob/main/img/Loadbalancer1.jpg)
+![alt text](https://github.com/fcon019/netology/blob/main/img/Loadbalancer1.png)
 ![alt text](https://github.com/fcon019/netology/blob/main/img/Loadbalancer2.jpg)
