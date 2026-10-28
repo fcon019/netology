@@ -9,4 +9,4 @@ Master - Master
 ##2. Master-Slave
 
 ![alt text](https://github.com/fcon019/netology/blob/main/img/Replica1-1.jpg)
-![alt text](https://github.com/fcon019/netology/blob/main/img/Replica1-2.jpg)
+![alt text](https://github.com/fcon019/netology/blob/main/img/Replica2-1.jpg)
