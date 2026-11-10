@@ -15,6 +15,7 @@
 ## Задание 2
 
 Репликация БД User, Stores - Master -Slave
+
 Горизонтальный шардинг таблицы books. Больше всего записей и больше всего запросов на чтение 
 
 ![alt text](https://github.com/fcon019/netology/blob/main/img/SQL-Replica1.jpg)
