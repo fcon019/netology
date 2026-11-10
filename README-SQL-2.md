@@ -14,6 +14,9 @@
 
 ## Задание 2
 
+Репликация всех БД  - Master -Slave
+Горизонтальный шардинг связующей таблицы User-Books. Больше всего записей и больше всего чтения
+
 ![alt text](https://github.com/fcon019/netology/blob/main/img/SQL-Replica1.jpg)
 
 
